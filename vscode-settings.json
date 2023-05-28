@@ -1,0 +1,15 @@
+  {
+      "workbench.colorTheme": "catppuccin mocha",
+    "editor.fontfamily": "'JetBrainsMono Nerd Font'",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "editor.inlineSuggest.enabled": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.stickyScroll.enabled": true,
+    "window.zoomLevel": 1,
+    "editor.fontLigatures": true,
+}
